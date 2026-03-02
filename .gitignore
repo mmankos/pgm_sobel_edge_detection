@@ -1,0 +1,5 @@
+assets
+build
+samples
+.cache
+auto_build.sh

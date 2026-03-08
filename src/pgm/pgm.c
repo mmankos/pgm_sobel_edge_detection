@@ -31,7 +31,6 @@ int read_pgm_p5(const char *filename, struct PGMImage *image)
 
     fclose(fp);
 
-    printf("pgm file read successfully\n");
     return 1;
 }
 
